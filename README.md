@@ -38,3 +38,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarltonMpofu&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
+ **<h3 align="left">Devcard</h3>**
+<a href="https://app.daily.dev/carlton"><img src="./devcard.png" width="356" alt="Carlton's Dev Card"/></a>
+ 
