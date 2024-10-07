@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/https://github.com/CarltonMpofu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" style="margin-right: 12px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/carlton-mpofu-257196184/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 12px"></a></p>
 
- <h4 align="left">🚀 I love crafting web apps and games—bringing ideas to life with code, from front-end to back-end. Always up for a new challenge!</h4>
+ <h4 align="left">🚀 I love crafting web apps and games—bringing ideas to life with code, from front-end to back-end. When I’m not coding, you’ll find me binge-watching anime and soaking in all the creativity!</h4>
 
  I often code and create things just for fun, and I love sharing some of my projects. You can check them out here: <a href="https://speedzworld.co.za/" target="_blank">speedzworld.co.za</a>.
 
