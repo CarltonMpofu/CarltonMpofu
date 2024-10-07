@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/https://github.com/CarltonMpofu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" style="margin-right: 12px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/carlton-mpofu-257196184/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 12px"></a></p>
 
- <h4 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h4>
+ <h4 align="left">🚀 I’m all about coding—whether it’s building web apps or crafting games, I love making things.</h4>
 
  I often code and create things just for fun, and I love sharing some of my projects. You can check them out here: <a href="https://speedzworld.co.za/" target="_blank">speedzworld.co.za</a>.
 
