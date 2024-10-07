@@ -17,6 +17,8 @@
 
  <h4 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h4>
 
+ <h4>I often code and create things just for fun, and I love sharing some of my projects. You can check them out [here](https://speedzworld.co.za/).</h4>
+
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Building code like it’s my superpower**
