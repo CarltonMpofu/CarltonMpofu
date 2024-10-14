@@ -18,7 +18,8 @@
  <h4 align="left">🚀 I love crafting web apps and games—bringing ideas to life with code, from front-end to back-end. When I’m not coding, you’ll find me binge-watching anime and soaking in all the creativity!</h4>
 
  I often code and create things just for fun, and I love sharing some of my projects. You can check them out here: 
- - <a href="https://speedzworld.co.za/" target="_blank">speedzworld.co.za</a>. 
+ - <a href="https://speedzworld.co.za/" target="_blank">speedzworld.co.za</a>
+ - And for games <a href="https://carltonmpofu.itch.io/" target="_blank">carltonmpofu.itch.io</a> 
 
 **<h3 align="left">Rapid Fire</h3>**
 
