@@ -19,9 +19,11 @@
 
  I often code and create things just for fun, and I love sharing some of my projects. You can check them out here: 
  - <a href="https://speedzworld.co.za/" target="_blank">speedzworld.co.za</a>
- - And for games <a href="https://carltonmpofu.itch.io/" target="_blank">carltonmpofu.itch.io</a> 
+ - And for games <a href="https://carltonmpofu.itch.io/" target="_blank">carltonmpofu.itch.io</a>
 
-**<h3 align="left">Rapid Fire</h3>**
+ **<h4 align="left"> Wanna chat or collab ? Email me at mpofucarlton15@gmail.com </h4>**
+
+**<h3 align="left">Rapid Fire</h3>** 
 
 - 💼 I'm currently working on: **💻 Building code like it’s my superpower**
 - 🌱 I'm currently learning: **📚 Leveling up my reading game—because knowledge is fuel!**
